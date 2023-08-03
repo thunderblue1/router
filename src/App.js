@@ -48,16 +48,16 @@ const App = () => {
                 <h5>Some friends of mine</h5>
                 <ul>
                     <li>
-                        <Link to='user/Mary'>Mary</Link>
+                        <Link to='/user/Mary'>Mary</Link>
                     </li>
                     <li>
-                        <Link to='user/Justine'>Justine</Link>
+                        <Link to='/user/Justine'>Justine</Link>
                     </li>
                     <li>
-                        <Link to='user/Brianna'>Brianna</Link>
+                        <Link to='/user/Brianna'>Brianna</Link>
                     </li>
                     <li>
-                        <Link to='user/David '>David</Link>
+                        <Link to='/user/David '>David</Link>
                     </li>
                 </ul>
             </BrowserRouter>
